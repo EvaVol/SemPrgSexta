@@ -1,0 +1,14 @@
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\bin\Debug\net8.0\Dědičnost.exe
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\bin\Debug\net8.0\Dědičnost.deps.json
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\bin\Debug\net8.0\Dědičnost.runtimeconfig.json
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\bin\Debug\net8.0\Dědičnost.dll
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\bin\Debug\net8.0\Dědičnost.pdb
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.AssemblyInfoInputs.cache
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.AssemblyInfo.cs
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.csproj.CoreCompileInputs.cache
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.dll
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\refint\Dědičnost.dll
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.pdb
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\Dědičnost.genruntimeconfig.cache
+C:\Users\volem\OneDrive - Mensa gymnázium, o.p.s\MENSA\SemPrg\Dědičnost\obj\Debug\net8.0\ref\Dědičnost.dll
